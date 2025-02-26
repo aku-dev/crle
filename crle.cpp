@@ -137,7 +137,6 @@ void print_data_size(double sz)
 	} else {
 		cout << sz << " b.";
 	}
-	
 }
 
 int main(int argc, char* argv[])
