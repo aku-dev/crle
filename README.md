@@ -1,6 +1,6 @@
 # crle
 
-RLE Data Compressos
+RLE Data Compressor
 
 Usage: 
 ```
