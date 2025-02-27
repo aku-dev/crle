@@ -4,12 +4,15 @@ RLE Data Compressos
 
 Usage: 
 ```
-Usage: crle.exe *.csv [/i] [/h] [/b] [/p]
+Usage: crle.exe *.csv [/hi] [/arr] [/h] [/b] [/p] [/n] [/sp]
 
-/i hide information.
+/hi hide information.
+/arr show array information.
 /h hex format.
 /b binary format.
 /p cpp header format.
+/n cpp header no rle compression.
+/sp  [w] [h] split file.
 ```
 
 Example output:

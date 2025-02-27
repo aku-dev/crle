@@ -35,7 +35,9 @@ namespace crle {
 		E_MODE_DEFAULT  = 0x01,
 		E_MODE_BINARY  = 0x02,
 		E_MODE_HEX  = 0x03,
-		E_MODE_CPP  = 0x04
+		E_MODE_CPP  = 0x04,
+		E_MODE_NO  = 0x05,
+		E_MODE_SPLIT  = 0x06,
 	} e_mode;
 	
 	struct s_prog_argument
